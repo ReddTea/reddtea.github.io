@@ -1,0 +1,27 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore pip dist folder
+# Ignore egg-info
+
+dist
+MANIFEST
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
+# Ignore Private files
+Private/
+
+# Ignore docs build
+site/
+*.zip
+.cache
+
+__pycache__
+
+*.pyc
+*.so
