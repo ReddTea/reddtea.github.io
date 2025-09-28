@@ -6,6 +6,10 @@
 
 dist
 MANIFEST
+build/
+develop-eggs/
+dist/
+eggs/
 
 # Ignore files related to API keys
 .env
@@ -22,6 +26,7 @@ site/
 .cache
 
 __pycache__
+__pycache__/
 
 *.pyc
 *.so
