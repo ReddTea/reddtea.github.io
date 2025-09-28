@@ -38,8 +38,8 @@ theme:
     #  link: https://linkedin.com/in/willettjames
 
 nav:
-  - Home: index.md
-  - About Me: about.md
+  #- Home: index.md
+  - Home: about.md
   - Software:
     - EMPEROR: emperor.md
     - reddemcee: reddemcee.md
