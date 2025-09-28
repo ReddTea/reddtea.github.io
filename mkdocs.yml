@@ -39,7 +39,7 @@ theme:
 
 nav:
   #- Home: index.md
-  - Home: about.md
+  - Home: index.md
   - Software:
     - EMPEROR: emperor.md
     - reddemcee: reddemcee.md
