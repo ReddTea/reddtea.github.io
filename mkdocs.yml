@@ -37,6 +37,18 @@ theme:
     #- icon: simple/linkedin
     #  link: https://linkedin.com/in/willettjames
 
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Software:
+    - EMPEROR: emperor.md
+    - reddemcee: reddemcee.md
+  - Publications: publications.md
+  - CV: vitae.md
+  - Research Interests: research.md
+
+
+
 
 markdown_extensions:
   - attr_list
@@ -66,6 +78,10 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/astro-pablo-pena
+    - icon: fontawesome/brands/github
+      link: https://github.com/ReddTea
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/my-orcid?orcid=0000-0002-8770-4398
   consent:
     title: Cookie consent
     actions:
