@@ -16,15 +16,15 @@ I built [`reddemcee`](https://reddemcee.readthedocs.io/en/latest), an adaptive p
 
 ## Technical strenghts
 
-    * __Bayesian inference and statistical methodology__: I have strong expertise in Bayesian inference, including MCMC and nested sampling algorithms, Gaussian processes, model comparison, and hierarchical modelling.
+- __Bayesian inference and statistical methodology__: I have strong expertise in Bayesian inference, including MCMC and nested sampling algorithms, Gaussian processes, model comparison, and hierarchical modelling.
 
-    * __Joint RV+astrometry frameworks__: I specialise in joint RV+astrometry (Hipparcos/Gaia+RVs) and stellar activity (e.g., differential rotation, granulation, magnetic cycles, Rossiter–McLaughlin) modelling.
-    
-    * __Software development__: I develop open-source tools (packaging, documentation) with modular designs, version control, and reproducible workflows.
+- __Joint RV+astrometry frameworks__: I specialise in joint RV+astrometry (Hipparcos/Gaia+RVs) and stellar activity (e.g., differential rotation, granulation, magnetic cycles, Rossiter–McLaughlin) modelling.
 
-    * __Computing, HPC, and infrastructure__: I have hands-on experience with computing infrastructure, from building a small server to running large-scale MCMC campaigns.
- 
-    * __Surveys and instruments__: My experience spans handling survey-class data (e.g., CHEPS, HARPS, Hipparcos, Gaia), and extensive on-site observations with CORALIE, giving me practical understanding of instrument systematics.
+- __Software development__: I develop open-source tools (packaging, documentation) with modular designs, version control, and reproducible workflows.
+
+- __Computing, HPC, and infrastructure__: I have hands-on experience with computing infrastructure, from building a small server to running large-scale MCMC campaigns.
+
+- __Surveys and instruments__: My experience spans handling survey-class data (e.g., CHEPS, HARPS, Hipparcos, Gaia), and extensive on-site observations with CORALIE, giving me practical understanding of instrument systematics.
 
 
 
