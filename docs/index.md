@@ -2,6 +2,19 @@
 
 I'm an exoplanet researcher focused on detecting and characterising long-period giant planets by combining precision radial-velocities with astrometry. I develop Bayesian methods and open-source tools to make model selection and evidence estimation more reliable in challenging multi-modal posteriors.
 
+# International Conference Exoplanets and Planet Formation
+If you got here through the conference, you probably want to check the links below, but feel free to explore around.
+
+=== "Poster"
+    [GitHub link](https://github.com/ReddTea)
+    ![PDF Viewer](../ICEPF/poster_ICEPF_2025_12.pdf){ type=application/pdf }
+
+    
+
+=== "Pre-print"
+    [PDF Viewer](../ICEPF/CHEPS_Astrometry_pre_print.pdf){ type=application/pdf }
+
+
 ## Now seeking
 Postdoctoral positions where I can combine algorithm development with bulk data analysis (in preparation Gaia DR4/Roman/PLATO/ELTs), to tackle on important exoplanet population and formation questions, like how common true Jupiter analogues are, how outer giants help shaping the inner architecture of planetary systems, and how crucial Jupiter is for life on Earth.
 

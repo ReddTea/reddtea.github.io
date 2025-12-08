@@ -70,7 +70,9 @@ markdown_extensions:
 plugins:
   - search
   - privacy
+  - mkdocs-pdf
 
+  
 extra:
   analytics:
     provider: google
