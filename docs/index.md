@@ -1,7 +1,3 @@
-# About Me
-
-I'm an exoplanet researcher focused on detecting and characterising long-period giant planets by combining precision radial-velocities with astrometry. I develop Bayesian methods and open-source tools to make model selection and evidence estimation more reliable in challenging multi-modal posteriors.
-
 # International Conference Exoplanets and Planet Formation
 If you got here through the conference, you probably want to check the links below, but feel free to explore around.
 
@@ -12,6 +8,13 @@ If you got here through the conference, you probably want to check the links bel
 
 === "Pre-print"
     [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/CHEPS_Astrometry_pre_print.pdf)
+
+
+
+# About Me
+
+I'm an exoplanet researcher focused on detecting and characterising long-period giant planets by combining precision radial-velocities with astrometry. I develop Bayesian methods and open-source tools to make model selection and evidence estimation more reliable in challenging multi-modal posteriors.
+
 
 
 ## Now seeking
