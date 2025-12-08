@@ -3,14 +3,14 @@ See a full list in [`ADS`](https://ui.adsabs.harvard.edu/user/libraries/Uj9qAAVW
 
 ## As first author
 
-- __Pe\~na R., Pablo A.__ and Jenkins, James S. (submitted and refereed, A\&A). "Closing the Evidence Gap: reddemcee, a Fast Adaptive Parallel Tempering Sampler". [`arXiv`](https://ui.adsabs.harvard.edu/abs/2025arXiv250924870P).
+- __Peña R., Pablo A.__ and Jenkins, James S. (submitted and refereed, A\&A). "Closing the Evidence Gap: reddemcee, a Fast Adaptive Parallel Tempering Sampler". [`arXiv`](https://ui.adsabs.harvard.edu/abs/2025arXiv250924870P).
 
 
-- __Pe\~na R., Pablo A.__ and Jenkins, James S. (accepted, A\&A). "EMPEROR
+- __Peña R., Pablo A.__ and Jenkins, James S. (accepted, A\&A). "EMPEROR
 I. Exoplanet MCMC parallel tempering for RV orbit retrieval". aa54336-25. [`arXiv`](https://www.aanda.org/articles/aa/pdf/forth/aa54336-25.pdf).
 
 
-- __Pe\~na R., Pablo A.__, Jenkins, James S. et al. (submitted, A\&A). "CHEPS Extended: Cold wide-orbiting giants to super metal-rich stars. EMPEROR II -- Astrometry" Pre-print available on request.
+- __Peña R., Pablo A.__, Jenkins, James S. et al. (submitted, A\&A). "CHEPS Extended: Cold wide-orbiting giants to super metal-rich stars. EMPEROR II -- Astrometry" [Pre-print](https://github.com/ReddTea/reddtea.github.io/blob/main/CHEPS_Astrometry_pre_print.pdf).
 
 ## As Co-author
 
