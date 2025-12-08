@@ -6,13 +6,12 @@ I'm an exoplanet researcher focused on detecting and characterising long-period 
 If you got here through the conference, you probably want to check the links below, but feel free to explore around.
 
 === "Poster"
-    [GitHub link](https://github.com/ReddTea)
-    ![PDF Viewer](../ICEPF/poster_ICEPF_2025_12.pdf){ type=application/pdf }
+    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/poster_ICEPF_2025_12.pdf)
 
     
 
 === "Pre-print"
-    [PDF Viewer](../ICEPF/CHEPS_Astrometry_pre_print.pdf){ type=application/pdf }
+    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/CHEPS_Astrometry_pre_print.pdf)
 
 
 ## Now seeking
