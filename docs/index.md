@@ -2,12 +2,12 @@
 If you got here through the conference, you probably want to check the links below, but feel free to explore around.
 
 === "Poster"
-    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/poster_ICEPF_2025_12.pdf)
+    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/poster_ICEPF_2025_12.pdf) | [View online](https://nbviewer.org/github/ReddTea/reddtea.github.io/blob/main/ICEPF/poster_ICEPF_2025_12.pdf)
 
     
 
 === "Pre-print"
-    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/CHEPS_Astrometry_pre_print.pdf)
+    [GitHub link](https://github.com/ReddTea/reddtea.github.io/blob/main/ICEPF/CHEPS_Astrometry_pre_print.pdf) | [View online](https://nbviewer.org/github/ReddTea/reddtea.github.io/blob/main/ICEPF/CHEPS_Astrometry_pre_print.pdf)
 
 
 
